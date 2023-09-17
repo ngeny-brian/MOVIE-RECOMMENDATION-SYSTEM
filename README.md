@@ -52,11 +52,11 @@ For these project, I utilised the ___movie_data___ and ___rating_data___ datafra
 
 First, I analyzeed the ___movie_data___ dataset to discover the top ten genres of movies that are most prevalent within the dataset and the average rating of these genres of movies.
 
-![Alt text](<images/image.png>)
+![Alt text](<Images/image.png>)
 
 Finally, I analyse the ___rating_data___ data frame to determine the top ten highest rated movies that have been rated by atleast a hundred users.
 
-![Alt text](<images/image-1.png>)
+![Alt text](<Images/image-1.png>)
 
 > ### __Modelling.__
 
