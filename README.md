@@ -14,7 +14,7 @@ This project's target audiences are, streaming sites and movie enthusiasts who w
 With so many movies being released, the challenge now is to select what to watch. These has prompted me to come up with a solution in the form of a recommendation system for movies. By so doing, I hope to solve the problem faced by movie enthusiasts and online streaming companies by developing a system that recommends movies based on the rating given to other movies by users.   
 
 > ### __Objectives.__
-These primary objective of these project was to come up with a system that would be able to recommend movies to a user based on the ratings they have given to other movies. I explored the data provided and formated it approprietly so as to come up with a functioning system that could recommend five movies that a user is likely to be interested in.
+The primary objective of these project was to come up with a system that would be able to recommend movies to a user based on the ratings they have given to other movies. I explored the data provided and formated it approprietly so as to come up with a functioning system that could recommend five movies that a user is likely to be interested in.
 
 The secondary objective was to build a model that uses content based recommendation to recommend movies to a user that are simillar to a particular movie within the dataset. These was a tentative solution for the cold-start problem whereby a user had not rated any movies yet but had an idea of the type of movies they are interested in. 
 
@@ -50,7 +50,7 @@ The next step was to clean the data acquired by digging deeper into each of the 
 > ### __Exploratory Data Analysis.__
 For these project, I utilised the ___movie_data___ and ___rating_data___ dataframes because they contain all the information necessary to build a recommendation system.
 
-First, I analyzeed the ___movie_data___ dataset to discover the top ten genres of movies that are most prevalent within the dataset and the average rating of these genres of movies.
+First, I analyzed the ___movie_data___ dataset to discover the top ten genres of movies that are most prevalent within the dataset and the average rating of these genres of movies.
 
 ![Alt text](<Images/image.png>)
 
